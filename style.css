@@ -1,0 +1,40 @@
+body
+{
+    height:auto;
+    width: auto;
+    margin: 10vh auto;
+    font-family: Verdana;
+    text-align: center;
+}
+
+#myLabel
+{
+    display: block;
+    margin: auto;
+    padding: 40px;
+    font-size: 10em;
+    font-family: Arial, sans-serif;
+    color: black;
+    text-align: center;
+    width: 35%;
+    border-radius: 100vh;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+#myButton
+{
+    background-color: #28a745;
+    color: white;
+    border:none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size:3em;
+    padding: 5px 25px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+#myButton:hover
+{
+    background-color: #218838;
+    color: #05440d;
+}
