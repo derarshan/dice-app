@@ -1,9 +1,9 @@
 # Dice App
 
-A basic 🎲dice application built using HTML, CSS, and JavaScript.
+A basic roll a 🎲 application built using HTML, CSS, and JavaScript.
 
 ## Features
-- Rolls a 6 sided dice with images
+- Rolls a 6 sided dice with dice images
 - Custom design with clean CSS styling
 - Simple and responsive layout
 
