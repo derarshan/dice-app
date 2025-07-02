@@ -8,45 +8,6 @@ body
 #diceImages
 {
     display: block;
-    padding: 50px 0px;
-    border-radius: 100px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-    min-width: 20%;
-    text-align: center;
-}
-
-#myButton
-{
-    background-color: #28a745;
-    color: white;
-    border: none;
-    border-radius: 50px;
-    cursor: pointer;
-    font-size:3em;
-    padding: 5px 25px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-}
-
-#myButton:hover
-{
-    background-color: #218838;
-}
-
-#myButton:active
-{
-    background-color: #23af4177;
-}
-
-body
-{
-    margin-top: 25px;
-    font-family: Verdana;
-    text-align: center;
-}
-
-#diceImages
-{
-    display: block;
     max-width: 1000px;
     margin: auto;
     padding: 50px 0px;
