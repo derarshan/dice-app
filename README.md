@@ -3,7 +3,7 @@
 A basic 🎲dice application built using HTML, CSS, and JavaScript.
 
 ## Features
-- Rolls a 6 sided dice
+- Rolls a 6 sided dice with images
 - Custom design with clean CSS styling
 - Simple and responsive layout
 
