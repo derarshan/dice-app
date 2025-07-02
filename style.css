@@ -1,31 +1,25 @@
 body
 {
-    height:auto;
-    width: auto;
-    margin: 10vh auto;
+    margin-top: 25px;
     font-family: Verdana;
     text-align: center;
 }
 
-#myLabel
+#diceImages
 {
     display: block;
-    margin: auto;
-    padding: 40px;
-    font-size: 10em;
-    font-family: Arial, sans-serif;
-    color: black;
-    text-align: center;
-    width: 35%;
-    border-radius: 100vh;
+    padding: 50px 0px;
+    border-radius: 100px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    min-width: 20%;
+    text-align: center;
 }
 
 #myButton
 {
     background-color: #28a745;
     color: white;
-    border:none;
+    border: none;
     border-radius: 50px;
     cursor: pointer;
     font-size:3em;
@@ -36,5 +30,57 @@ body
 #myButton:hover
 {
     background-color: #218838;
-    color: #05440d;
+}
+
+#myButton:active
+{
+    background-color: #23af4177;
+}
+
+body
+{
+    margin-top: 25px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+#diceImages
+{
+    display: block;
+    max-width: 1000px;
+    margin: auto;
+    padding: 50px 0px;
+    border-radius: 100px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    min-width: 20%;
+    text-align: center;
+}
+
+#myButton
+{
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size:3em;
+    padding: 5px 25px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+#myButton:hover
+{
+    background-color: #218838;
+}
+
+#myButton:active
+{
+    background-color: #23af4177;
+}
+
+#diceImages img 
+{
+    max-width: 200px;
+    object-fit: contain;
+    border-radius: 1.5em;
 }
