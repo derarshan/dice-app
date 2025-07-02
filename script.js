@@ -14,5 +14,3 @@ myButton.onclick = function()
     randomNum = Math.floor(Math.random() * max) + min;
     diceImages.innerHTML = `<img src = "dice_images/${randomNum}.png">`;
 }
-
-//random comment to fix upload issues(ignore)
