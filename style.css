@@ -10,6 +10,7 @@ body
     display: block;
     max-width: 1000px;
     min-width: 1000px;
+    min-height: 800px;
     margin: auto;
     padding: 50px 0px;
     border-radius: 100px;
@@ -46,4 +47,5 @@ body
     object-fit: contain;
     border-radius: 1.5em;
 }
+
 
